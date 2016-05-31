@@ -1,3 +1,5 @@
+**This fork only solve the popup close bug (the deferred is not rejected when the popup closes) on top of the 0.14.0 release.**
+
 ![Project Logo](https://lh6.googleusercontent.com/-YmfKZZLZKL0/U-KVPFSbiOI/AAAAAAAAEZA/maoYT8iJCnA/w1089-h513-no/sshot-1.png)
 
 # [Satellizer](https://github.com/sahat/satellizer/)
